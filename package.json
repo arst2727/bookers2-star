@@ -1,0 +1,7 @@
+{
+  "name": "Bookers2_ver2",
+  "private": true,
+  "dependencies": {
+    "raty-js": "^3.0.0"
+  }
+}
